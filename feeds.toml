@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[Reason Issues]
+title = "Reason - Issues"
+url = "https://reason.com/archives"
+entrySelector = ".issue-thumb"
+titleSelector = "p > a"
+linkSelector = "a"
