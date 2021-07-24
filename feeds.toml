@@ -12,10 +12,10 @@ entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
 
-[reason_issues]
+[reason]
 title = "Reason - Issues"
 url = "https://reason.com/archives"
 entrySelector = ".issue-thumb"
 titleSelector = "p > a"
 linkSelector = "a"
-contentSelector = ".issue-cover-sm lazyloaded"
+contentSelector = "img"
